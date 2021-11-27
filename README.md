@@ -1,6 +1,7 @@
 ## Hi there 👋 
 I am normal student Backend Developer living in Korea
-
+## Coding Langs
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### Stats
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
