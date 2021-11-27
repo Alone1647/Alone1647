@@ -1,5 +1,4 @@
-## Hi there 👋
-## I am normal student Developer living in Korea
+## Hi there 👋 I am normal student Developer living in Korea
 
 
 ### Stats
