@@ -8,8 +8,6 @@ I am normal student Backend Developer living in Korea
 
 ### Stats
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pesinple&hide=contribs,prs)
-### Top Langs
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pesinple)](https://github.com/Pesinple/github-readme-stats)
 
 
 <!--
