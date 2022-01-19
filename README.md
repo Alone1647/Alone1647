@@ -4,7 +4,7 @@ I am normal student Backend Developer living in Korea
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Go-5AB?style=flat-square&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-8E?style=flat-square&logo=Javascript&logoColor=Yellow"/></a>
-<del><img src="https://img.shields.io/badge/Html-8E?style=flat-square&logo=Html&logoColor=Yellow"/></a><del>
+<img src="https://img.shields.io/badge/Html-8E?style=flat-square&logo=Html&logoColor=Yellow"/></a>
 
 
 
